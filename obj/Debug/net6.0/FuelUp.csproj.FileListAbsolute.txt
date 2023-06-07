@@ -1,0 +1,15 @@
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FuelUp\bin\Debug\net6.0\FuelUp.exe
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FuelUp\bin\Debug\net6.0\FuelUp.deps.json
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FuelUp\bin\Debug\net6.0\FuelUp.runtimeconfig.json
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FuelUp\bin\Debug\net6.0\FuelUp.dll
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FuelUp\bin\Debug\net6.0\FuelUp.pdb
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FuelUp\obj\Debug\net6.0\FuelUp.csproj.AssemblyReference.cache
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FuelUp\obj\Debug\net6.0\FuelUp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FuelUp\obj\Debug\net6.0\FuelUp.AssemblyInfoInputs.cache
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FuelUp\obj\Debug\net6.0\FuelUp.AssemblyInfo.cs
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FuelUp\obj\Debug\net6.0\FuelUp.csproj.CoreCompileInputs.cache
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FuelUp\obj\Debug\net6.0\FuelUp.dll
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FuelUp\obj\Debug\net6.0\refint\FuelUp.dll
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FuelUp\obj\Debug\net6.0\FuelUp.pdb
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FuelUp\obj\Debug\net6.0\FuelUp.genruntimeconfig.cache
+c:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\FuelUp\obj\Debug\net6.0\ref\FuelUp.dll
